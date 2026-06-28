@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=VDD Pin=J4-39
+Added Pin To Net: NetName=5V5 Pin=J4-37
+Added Net: Name=5V5
+Add Net: Net with name "V5V" already exists
+Add Net: Net with name "VREAD" already exists
+Add Net: Net with name "VSEL_BL_0" already exists
+Add Net: Net with name "VSEL_BL_1" already exists
+Add Net: Net with name "VSEL_SL_0" already exists
+Add Net: Net with name "VSEL_SL_1" already exists
+Add Net: Net with name "VSEL_WL" already exists
+Add Net: Net with name "VUNSEL_WL" already exists

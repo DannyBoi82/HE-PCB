@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=read_enable Pin=J4-1
+Removed Pin From Net: NetName=write_enable Pin=J4-3
+Removed Pin From Net: NetName=bank0_init_en Pin=J4-43
+Removed Pin From Net: NetName=bank0_init_done Pin=J4-45
+Removed Pin From Net: NetName=bank0_write_done_all Pin=J4-47
+Added Pin To Net: NetName=bank0_init_en Pin=J4-37
+Added Pin To Net: NetName=bank0_init_done Pin=J4-39
+Added Pin To Net: NetName=bank0_write_done_all Pin=J4-41
+Added Pin To Net: NetName=read_enable Pin=J4-43
+Added Pin To Net: NetName=write_enable Pin=J4-45

@@ -1,0 +1,6 @@
+Pin Designator=35	Old Net Name=	New Net Name=VREAD
+Pin Designator=37	Old Net Name=	New Net Name=V5V
+Pin Designator=41	Old Net Name=	New Net Name=VSEL_BL_0
+Pin Designator=61	Old Net Name=	New Net Name=VSEL_BL_1
+Pin Designator=63	Old Net Name=	New Net Name=VSEL_SL_0
+Pin Designator=65	Old Net Name=	New Net Name=VSEL_SL_1

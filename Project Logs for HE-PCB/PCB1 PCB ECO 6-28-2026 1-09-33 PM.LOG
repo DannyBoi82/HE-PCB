@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=VSEL_BL_1 Pin=J2-29
+Added Pin To Net: NetName=VSEL_BL_0 Pin=J2-31
+Added Pin To Net: NetName=VSEL_SL_1 Pin=J4-5
+Added Pin To Net: NetName=VSEL_SL_0 Pin=J4-7
+Added Pin To Net: NetName=VREAD Pin=J4-9
+Added Pin To Net: NetName=VSEL_WL Pin=J4-11
+Added Pin To Net: NetName=VUNSEL_WL Pin=J4-13
+Added Pin To Net: NetName=V5V Pin=J4-15

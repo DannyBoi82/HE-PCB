@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VSEL_BL_1 Pin=J2-29
+Removed Pin From Net: NetName=VSEL_BL_0 Pin=J2-31
+Added Pin To Net: NetName=VSEL_BL_0 Pin=J2-29
+Added Pin To Net: NetName=VSEL_BL_1 Pin=J2-31
