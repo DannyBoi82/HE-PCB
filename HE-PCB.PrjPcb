@@ -304,6 +304,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUKMRYLK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HE-PCB\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
