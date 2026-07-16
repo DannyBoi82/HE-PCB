@@ -1,0 +1,20 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Public\Documents\Altium\NEXUS-connectors\HE-PCB\xtalk_sim\xtalk_input_data.cir
+Start Time: Sat Jul  4 14:26:54 2026
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+.OP point found by inspection.
+Total elapsed time: 0.344 seconds.
+
+Files loaded:
+C:\Users\Public\Documents\Altium\NEXUS-connectors\HE-PCB\xtalk_sim\xtalk_input_data.cir
+
+aggr_swing: PP(V(a1_0))=1.79999673367 FROM 0 TO 4e-08
+next_pos: MAX(V(v_0))=0.0596117377281 FROM 0 TO 4e-08
+next_neg: MIN(V(v_0))=-0.0595835149288 FROM 0 TO 4e-08
+next_pk: MAX(abs(V(v_0)))=0.0596117377281 FROM 0 TO 4e-08
+fext_pk: MAX(abs(V(v_40)))=0.10633007437 FROM 0 TO 4e-08
