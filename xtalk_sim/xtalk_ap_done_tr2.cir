@@ -4,7 +4,7 @@
 .param VDD=1.8
 .param TR=2.0n        ; rise time (PRIMARY knob - crosstalk scales with this)
 .param TF={TR}          ; fall time
-.param PERIOD=10.0n  ; bit/clock period
+.param PERIOD=40.0n  ; bit/clock period
 .param PW={PERIOD/2-TR}   ; high time
 .param RDRV=30.0        ; driver output impedance (ohm)
 .param CLOAD=3.0p   ; receiver input capacitance
